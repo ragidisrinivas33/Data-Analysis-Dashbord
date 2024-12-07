@@ -25,4 +25,10 @@ To contribute to the sucess of a business analysis Techinquies specifically focu
 - create dashbord according to question asked
 
 - apply the slicer to make daynamic
+
+  ## Dashbord
+  https://github.com/ragidisrinivas33/Data-Analysis-Dashbord/blob/main/sales%20dashbord.pbix
+
+  ## Final conclusion:
+  
             
