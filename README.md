@@ -1,2 +1,3 @@
-# Data-Analysis-Dashbord
-I developed a comprehensive project in excel, creating multiple dashbords and tables to analysis data. This process involved several stages, including data processing data cleaning and data visualization
+# Super-store-sales-Analysis
+## Project Objective
+To contribute to the sucess of a business analysis Techinquies specifically focusing on time series analysis, to provide valuble insights and accurte sales forcasting
