@@ -8,10 +8,6 @@ To contribute to the sucess of a business analysis Techinquies specifically focu
 
 
 
-
-
-
-
 ## Dashbord interaction
 <a href="https://github.com/ragidisrinivas33/Data-Analysis-Dashbord/blob/main/sales%20dashbord.pbix"
 
@@ -30,5 +26,7 @@ To contribute to the sucess of a business analysis Techinquies specifically focu
   https://github.com/ragidisrinivas33/Data-Analysis-Dashbord/blob/main/sales%20dashbord.pbix
 
   ## Final conclusion:
+
+  In this sales analysis project, we explored a comprehensive dataset from a superstore to identify key trends, patterns, and insights related to sales, Performance by Region and Category,Customer Segmentation and Behavior,Profit Margins and Discounts,Seasonality and Sales Trends: 
   
             
